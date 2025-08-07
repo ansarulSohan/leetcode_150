@@ -15,4 +15,7 @@ solution: [Check Here](https://leetcode.com/problems/remove-element/solutions/70
 link: [LeetCode Problem 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 solution: [Check Here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/7052670/solution-by-ansarulkabir-e0kr)
 
-## problem
+## problem 35: Search Insert Position
+
+link: [LeetCode Problem 35](https://leetcode.com/problems/search-insert-position/)
+solution: [Check Here](https://leetcode.com/problems/search-insert-position/solutions/7055992/solution)
